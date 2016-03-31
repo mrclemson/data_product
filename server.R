@@ -1,5 +1,7 @@
 library(shiny)
 
+## scripts available at https://github.com/mrclemson/data_product
+
 # Define server logic required to summarize and view the selected dataset
 shinyServer(function(input, output) {
 

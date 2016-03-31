@@ -1,5 +1,7 @@
 library(shiny)
 
+## scripts available at https://github.com/mrclemson/data_product
+
 # Read in the dataset
 setwd("./")
 auto = read.csv("auto_selection.csv")

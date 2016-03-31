@@ -10,7 +10,7 @@ output: ioslides_presentation
 - The whole idea of this automobile selection tool comes from a real world scenario where people go to some internet website and search for their next vehicle. Often times, the type of vehicles such as Sedan, SUV or Minivan is the first criterion that comes to their mind. Most people also have a preset budget that partially determines the vehicle they eventually buy.
 - In this exercise, the author implemented those two most commonly leveraged criteria in a R Shiny application. 
 - The dataset was put together manually for a lack of existing dataset readily available on the internet.
-
+- The scripts are available at https://github.com/mrclemson/data_product
 
 ## A quick peek of the actual dataset
 
